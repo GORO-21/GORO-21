@@ -15,23 +15,23 @@ I'm a passionate **Chemical Engineering enthusiast** leveraging **Python** to re
 ![Pyomo](https://img.shields.io/badge/Pyomo-4B8BBE?logo=python&logoColor=white)
 ![Aspen Plus](https://img.shields.io/badge/Aspen%20Plus-2E7D32?logo=chemical&logoColor=white)
 ![DWSIM](https://img.shields.io/badge/DWSIM-FF5722?logo=chemical&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Salome](https://img.shields.io/badge/Salome-0288D1?logo=gears&logoColor=white)
+![ParaView](https://img.shields.io/badge/ParaView-3C8D2F?logo=visualization&logoColor=white)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E88E5?logo=fluid&logoColor=white)
 
 ## 🌟 Featured Projects
-- **[Process-Simulation-Toolkit](https://github.com/yourusername/process-simulation-toolkit)**: A Python-based toolkit for simulating chemical processes, integrating with DWSIM for dynamic modeling.
-- **[Optimization-Scripts](https://github.com/yourusername/optimization-scripts)**: A collection of Python scripts for optimizing chemical plant operations using Pyomo and differential equations.
-- **[Chemical-Kinetics-Model](https://github.com/yourusername/chemical-kinetics-model)**: Solving ODEs for reaction kinetics with SciPy, with interactive Jupyter notebooks.
+- **[Chemical_Engineering_Formulaes](https://github.com/GORO-21/Chemical_Engineering_Formulas)**: A Python-based toolkit which consists of several modules solvers of formulas used in Chemical Engineering
+- **[DWSIM_Simulation](https://github.com/GORO-21/DWSIM_Simulation)**: This repository contains a collection of process simulations created using DWSIM, an open-source process simulator for chemical engineering applications. Each simulation demonstrates various unit operations, thermodynamic models, and process configurations, providing practical examples.
+
 
 ## 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **X**: [@yourhandle](https://x.com/yourhandle)
+- **Email**: [your.email@example.com](gaurav21singhr@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gauravsingh-rajput-08abb1227/)
+
 
 Interested in collaborating on **chemical engineering projects**, **Python automation**, or **process optimization**? Feel free to open an issue, fork a repo, or drop me a message! 🚀
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ---
 *“Engineering the future, one process at a time.”*
