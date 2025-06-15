@@ -20,7 +20,7 @@ I'm a passionate **Chemical Engineering enthusiast** leveraging **Python** to re
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E88E5?logo=fluid&logoColor=white)
 
 ## 🌟 Featured Projects
-- **[Chemical_Engineering_Formulaes](https://github.com/GORO-21/Chemical_Engineering_Formulas)**: A Python-based toolkit which consists of several modules solvers of formulas used in Chemical Engineering
+- **[Chemical_Engineering_Formulas](https://github.com/GORO-21/Chemical_Engineering_Formulas)**: A Python-based toolkit which consists of several modules solvers of formulas used in Chemical Engineering
 - **[DWSIM_Simulation](https://github.com/GORO-21/DWSIM_Simulation)**: This repository contains a collection of process simulations created using DWSIM, an open-source process simulator for chemical engineering applications. Each simulation demonstrates various unit operations, thermodynamic models, and process configurations, providing practical examples.
 
 
