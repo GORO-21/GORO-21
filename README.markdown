@@ -25,8 +25,8 @@ I'm a passionate **Chemical Engineering enthusiast** leveraging **Python** to re
 
 
 ## 📫 Get in Touch
-- **Email**: [your.email@example.com](gaurav21singhr@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gauravsingh-rajput-08abb1227/)
+- **Email**: [gaurav21singhr@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/gauravsingh-rajput-08abb1227/]
 
 
 Interested in collaborating on **chemical engineering projects**, **Python automation**, or **process optimization**? Feel free to open an issue, fork a repo, or drop me a message! 🚀
