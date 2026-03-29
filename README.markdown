@@ -1,9 +1,9 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a passionate **Chemical Engineering enthusiast** leveraging **Python** to revolutionize **process simulation** and **optimization**. My mission is to bridge the gap between chemical engineering principles and cutting-edge computational tools, creating efficient, sustainable, and innovative solutions for industrial processes. 🌱
+I'm a passionate **Chemical Engineer** leveraging **coding** to revolutionize **process simulation** , **optimization** and **integration of machine learning and AI with chemical engineering** . My mission is to bridge the gap between chemical engineering principles and cutting-edge computational tools, creating efficient, sustainable, and innovative solutions for industrial processes. 🌱
 
 ## 🔬 What I'm Working On
-- **Integrating Python with Chemical Engineering**: Building tools and scripts to model complex chemical processes using libraries like **NumPy**, **SciPy**, **Pandas**, and **Pyomo**.
+- **Integrating Python with Chemical Engineering**: Building tools and scripts to model complex chemical processes using libraries like **NumPy**, **SciPy**, **Pandas**.
 - **Process Simulation**: Developing simulations for unit operations (e.g., reactors, distillation columns) and full flowsheets, often integrating with simulators like **Aspen Plus** or **DWSIM** via Python APIs.
 - **Optimization**: Crafting algorithms to optimize process parameters, reduce energy consumption, and enhance sustainability using techniques like **linear programming**, **nonlinear optimization**, and **machine learning**.
 - **Open-Source Contributions**: Sharing reusable code for chemical engineering applications to foster collaboration and innovation in the community.
