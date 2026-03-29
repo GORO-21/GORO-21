@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a passionate **Chemical Engineer** leveraging **coding** to revolutionize **process simulation** , **optimization** and **integration of machine learning and AI with chemical engineering** . My mission is to bridge the gap between chemical engineering principles and cutting-edge computational tools, creating efficient, sustainable, and innovative solutions for industrial processes. 🌱
+I'm a passionate **Chemical Engineer** researching in **process simulation** , **optimization** and **integration of machine learning and AI with chemical engineering** . My mission is to bridge the gap between chemical engineering principles and cutting-edge computational tools, creating efficient, sustainable, and innovative solutions for industrial processes. 🌱
 
 ## 🔬 What I'm Working On
 - **Integrating Python with Chemical Engineering**: Building tools and scripts to model complex chemical processes using libraries like **NumPy**, **SciPy**, **Pandas**.
