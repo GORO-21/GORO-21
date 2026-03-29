@@ -32,7 +32,7 @@ I'm a passionate **Chemical Engineer** researching in **process simulation** , *
 - **LinkedIn**: [https://www.linkedin.com/in/gauravsingh-rajput-08abb1227/]
 
 
-Interested in collaborating on **chemical engineering projects**, **Python automation**, or **process optimization**? Feel free to open an issue, fork a repo, or drop me a message! 🚀
+Interested in collaborating on **chemical engineering projects**, **Python automation**, **process optimization** or **Deep learning and machine learning in Industry** ? Feel free to open an issue, fork a repo, or drop me a message! 🚀
 
 
 
